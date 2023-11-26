@@ -3953,6 +3953,8 @@ body.has-active-menu {
 /* line 27, ../sass/include/header/_notification.scss */
 .notification-bar a span.pointer {
   background: #fff url(../images/arrow-next.png) no-repeat center center;
+  display: grid;
+  place-items: center;
   width: 26px;
   height: 26px;
   background-size: 8px 13px;
@@ -3983,6 +3985,7 @@ body.has-active-menu {
 .notification-bar a:hover span.pointer {
   background-image: url(../images/arrow-next_white.png);
   background-color: #141A3D;
+  color: white;
 }
 /* line 53, ../sass/include/header/_notification.scss */
 .notification-bar a:hover::after {
@@ -9628,7 +9631,7 @@ pageSlide.open {
   animation: 1s ease 0s 1 fadeInLeft;
 }
 /* line 326, ../sass/include/_home.scss */
-.home-impact-stories .item .s2::after {
+/* .home-impact-stories .item .s2::after {
   position: absolute;
   content: '';
   width: 100%;
@@ -9638,7 +9641,7 @@ pageSlide.open {
   background-color: #1798AE;
   z-index: -1;
   animation: 1s ease 0s 1 slideInFromLeftLine;
-}
+} */
 /* line 337, ../sass/include/_home.scss */
 .home-impact-stories .item .s2:hover::after {
   width: 100%;
