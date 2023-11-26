@@ -1,0 +1,430 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<title>Home - Franchise Pool</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- This site is optimized with the Yoast SEO plugin v10.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Franchise Pool is a Luminary Labs initiative to advance scientific discovery tools that anyone can use. The initiative is funded by grants from the Gordon and Betty Moore Foundation and Schmidt Futures."/>
+<link rel="canonical" href="https://www.toolfoundry.org/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Franchise Pool" />
+<meta property="og:description" content="Franchise Pool is a Luminary Labs initiative to advance scientific discovery tools that anyone can use. The initiative is funded by grants from the Gordon and Betty Moore Foundation and Schmidt Futures." />
+<meta property="og:url" content="https://www.toolfoundry.org/" />
+<meta property="og:site_name" content="Franchise Pool" />
+<meta property="og:image" content="https://www.toolfoundry.org/wp-content/uploads/2019/07/1_TF_PreviewCard_Main.png" />
+<meta property="og:image:secure_url" content="https://www.toolfoundry.org/wp-content/uploads/2019/07/1_TF_PreviewCard_Main.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="@Tool_Foundry is a @LuminaryLabs initiative to advance scientific discovery tools that anyone can use. The initiative is funded by grants from @MooreFound and @SchmidtFutures." />
+<meta name="twitter:title" content="Franchise Pool" />
+<meta name="twitter:image" content="https://www.toolfoundry.org/wp-content/uploads/2019/07/1_TF_PreviewCard_Main.png" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.toolfoundry.org/#website","url":"https://www.toolfoundry.org/","name":"Franchise Pool","potentialAction":{"@type":"SearchAction","target":"https://www.toolfoundry.org/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Franchise Pool &raquo; Feed" href="https://www.toolfoundry.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Franchise Pool &raquo; Comments Feed" href="https://www.toolfoundry.org/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.toolfoundry.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.toolfoundry.org/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 19.5px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36.5px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 22px;--wp--preset--font-size--huge: 49.5px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='style-css' href='https://www.toolfoundry.org/wp-content/themes/tool-foundry/style.css?ver=6.3.2' type='text/css' media='screen,projection,print' />
+<link rel='stylesheet' id='futurescape-style-css' href='https://www.toolfoundry.org/wp-content/themes/tool-foundry/stylesheets/styles.css?ver=6.3.2' type='text/css' media='screen,projection,print' />
+<link rel='stylesheet' id='google-fonts-css' href='https://fonts.googleapis.com/css?family=Barlow%3A400%2C400i%2C700%2C700i%2C800%7CMontserrat%3A400%2C400i%2C600%2C700%2C700i%2C800&#038;ver=6.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://www.toolfoundry.org/wp-content/themes/tool-foundry/css/animate.css?ver=6.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-content/themes/tool-foundry/js/jquery.easing.1.3.js?ver=1.3' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-content/themes/tool-foundry/js/wow.min.js?ver=v1.1.3' id='jquery-wow-js'></script>
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-content/themes/tool-foundry/js/modal.js?ver=3.3.6' id='bootstrap-modal-js'></script>
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-content/themes/tool-foundry/js/jquery.bxslider.js?ver=4.2.12' id='jquery-bxslider-js'></script>
+<link rel="https://api.w.org/" href="https://www.toolfoundry.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.toolfoundry.org/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.toolfoundry.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.toolfoundry.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.toolfoundry.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.toolfoundry.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.toolfoundry.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.toolfoundry.org%2F&#038;format=xml" />
+
+<!-- Adding FavIcon -->
+<link rel='shortcut icon' href='https://www.toolfoundry.org/wp-content/themes/tool-foundry/images/favicon.png' />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<!--    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106847750-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-XXXXXXX');
+    </script>-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137513362-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-137513362-1');
+  </script>
+  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0065/5186.js" async="async"></script>
+</head>
+
+<body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-embed-responsive">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+  <div class="pageSlide"></div>
+  <button class="menu-toggle"><span>Menu</span></button>
+  <header id="masthead" class="site-header">
+    <div class="site-branding">
+      <div class="container">
+                  <p class="site-title"><a href="https://www.toolfoundry.org/" rel="home">Franchise Pool</a></p>
+        
+                  
+          <nav id="site-navigation" class="main-navigation nav-collapse" aria-label="Primary Menu">
+            <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="main-menu"><li id="menu-item-666" class="hidden-lg-up menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-666"><a href="https://www.toolfoundry.org/" aria-current="page">Home</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.toolfoundry.org/about/">About Franchise Pool</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.toolfoundry.org/accelerator/">Accelerator</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://www.toolfoundry.org/get-involved/">Get Involved</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.toolfoundry.org/toolbox/">Toolbox</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.toolfoundry.org/journal/">Journal</a></li>
+</ul></div>          </nav><!-- #site-navigation -->
+        
+        <div class="clearfix"></div>
+      </div>
+    </div><!-- .site-branding -->
+  </header><!-- #masthead -->
+  
+  <div class="notification-bar"><a href="http://eepurl.com/glUe81" target="_blank" class="heading4"><div class="container"><span>Be the first to receive updates — Subscribe to the Franchise Pool Journal</span><span class="pointer"></span><div class="clearfix"></div></div></a></div>
+	<div id="content" class="site-content">
+
+<section id="primary" class="content-area">
+  <main id="main" class="site-main">
+    <div class="home-header" data-bgimg-hero="https://www.toolfoundry.org/wp-content/uploads/2019/04/1_ToolFoundry_Hero_Unsplash-min-1.jpg"><div class="container"><div class="row"><div class="col-md-6 col-sm-12"><div class="logo-hero logo-anim1">
+            <h2>Franchise Pool</h2>
+            <span class="o1"><span></span></span>
+            <span class="o2"><span></span></span>
+          </div></div><div class="col-md-6 col-sm-12"><div class="heading3">Advancing accessible tools for scientific discovery <span>Support the development of tools anyone can use</span></div><a href="https://www.toolfoundry.org/accelerator/#meet-the-cohort" class="btn btn__lime btn__medium">Meet the cohort</a></div></div></div><div class="share-this"><h3>Share this:</h3><ul><li class="facebook"><a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://www.toolfoundry.org/&p[images][0]=https://www.toolfoundry.org/wp-content/uploads/2019/07/1_TF_PreviewCard_Main.png&p[title]=Franchise Pool" title="Share this on Facebook" target="_blank">Facebook</a></li><li class="twitter"><a href="https://twitter.com/intent/tweet?text=%40Tool_Foundry+is+a+%40LuminaryLabs+initiative+to+advance+scientific+discovery+tools+that+anyone+can+use.+The+initiative+is+funded+by+grants+from+%40MooreFound+and+%40SchmidtFutures." title="Share this on Twitter" target="_blank">Twitter</a></li></ul></div></div>    
+        
+    <div class="page-section accelerator-details">
+      <div class="col-left">
+        <div class="container-half col-left__content">
+          <div class="accelerator__content">
+            <h2>We believe low-cost, high-quality, and easy-to-use tools can expand access to science.</h2>
+<p>Franchise Pool is a Luminary Labs initiative funded by grants from the Gordon and Betty Moore Foundation and Schmidt Futures to expand access to science.</p>
+<p>The Franchise Pool <a href="https://www.toolfoundry.org/accelerator/" rel="noopener">accelerator</a> is a four-month program designed to help a diverse cohort of teams iterate and scale accessible and powerful scientific discovery tools.</p>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <div class="col-right">
+        <div class="container-half col-right__content">
+          <div class="widget widget__accelerator-details">
+            <h3 class="widget__title">Accelerator at a glance</h3>
+            <div class="widget__content">
+              <div class="item"><div class="item__label">Accelerator cohort:</div><div class="item__text"><a href="https://www.toolfoundry.org/accelerator/#meet-the-cohort">5 teams</a></div></div><div class="item"><div class="item__label">Funding amount:</div><div class="item__text">$50,000 per team</div></div><div class="item"><div class="item__label">Accelerator duration:</div><div class="item__text">4 months</div></div><div class="item"><div class="item__label">Showcase: </div><div class="item__text">November 18, 2019</div></div>              <a href="https://www.toolfoundry.org/accelerator/" class="btn">More details</a>
+            </div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    
+    
+    <div class="parallex-image parallax" data-bgimg="https://www.toolfoundry.org/wp-content/uploads/2019/04/2_HowItWorks_Divider-min-1-1920x1281.jpg"></div>    
+    <div class="page-section home-impact-stories">
+      <div class="container clearfix">
+        <div class="section-header">
+          <h2 class="heading3">Meet the cohort</h2>
+          <p>Based on the <a href="https://www.toolfoundry.org/accelerator/#selection-criteria">selection criteria </a>— including team ability, growth potential, and vision — Franchise Pool invited five teams working on accessible tools in application areas including biomedical imaging, health and environmental monitoring, and digital fabrication to join the accelerator cohort.</p>
+        </div>
+      </div>
+      <div class="bxslider">
+                  <div class="slide item">
+            <div class="container clearfix">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__content">
+                    <div class="heading5">Feles One Desktop Biolab</div>
+                    <h3 class="heading3">
+                      <div class="t t1">What if any </div>
+                      <div class="t t2">student </div>
+                      <div class="t t3">had the tools to </div>
+                      <div class="t t4">visualize DNA</div>
+                      <span>?</span>
+                    </h3>
+                    <a href="/accelerator/#meet-the-cohort" class="btn">Read more</a>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/07/Feles_Edited-min.jpg" alt="" class="img-fluid" /></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+                  <div class="slide item">
+            <div class="container clearfix">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__content">
+                    <div class="heading5">MakeItSo</div>
+                    <h3 class="heading3">
+                      <div class="t t1">What if any </div>
+                      <div class="t t2">scientist </div>
+                      <div class="t t3">had the tools to </div>
+                      <div class="t t4">automate experiments</div>
+                      <span>?</span>
+                    </h3>
+                    <a href="/accelerator/#meet-the-cohort" class="btn">Read more</a>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/07/MakeItSo_Edited-min.jpg" alt="" class="img-fluid" /></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+                  <div class="slide item">
+            <div class="container clearfix">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__content">
+                    <div class="heading5">Octopi</div>
+                    <h3 class="heading3">
+                      <div class="t t1">What if any </div>
+                      <div class="t t2">health worker </div>
+                      <div class="t t3">had the tools to </div>
+                      <div class="t t4">detect malaria</div>
+                      <span>?</span>
+                    </h3>
+                    <a href="/accelerator/#meet-the-cohort" class="btn">Read more</a>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/07/BACKUP_Octopi_Edited-min.jpg" alt="" class="img-fluid" /></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+                  <div class="slide item">
+            <div class="container clearfix">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__content">
+                    <div class="heading5">On-Target Cards</div>
+                    <h3 class="heading3">
+                      <div class="t t1">What if any </div>
+                      <div class="t t2">individual </div>
+                      <div class="t t3">had the tools to </div>
+                      <div class="t t4">test water</div>
+                      <span>?</span>
+                    </h3>
+                    <a href="https://www.toolfoundry.org/accelerator/#meet-the-cohort" class="btn">Read more</a>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/07/BACKUP_OnTargetCards_Edited-min.jpg" alt="" class="img-fluid" /></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+                  <div class="slide item">
+            <div class="container clearfix">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__content">
+                    <div class="heading5">Spectra</div>
+                    <h3 class="heading3">
+                      <div class="t t1">What if any </div>
+                      <div class="t t2">patient </div>
+                      <div class="t t3">had the tools to </div>
+                      <div class="t t4">see inside their body</div>
+                      <span>?</span>
+                    </h3>
+                    <a href="/accelerator/#meet-the-cohort" class="btn">Read more</a>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/07/Spectra_Edited-min.jpg" alt="" class="img-fluid" /></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+              </div>
+    </div>
+    
+    <div class="page-section important-dates">
+      <div class="col-left">
+        <div class="container-half col-left__content">
+          <div class="accelerator__content">
+            <h2>How the Franchise Pool accelerator works</h2>
+<p><span style="font-weight: 400;">The four-month accelerator will provide participating teams with resources and networks to develop, iterate, and strengthen their tools, while building a foundation for sustainable growth.</span></p>
+<p><a href="https://www.toolfoundry.org/accelerator/" id="" class="btn btn__indigo" title="">Learn more</a></p>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <div class="col-right">
+        <div class="container-half col-right__content">
+          <div class="widget widget__important-dates">
+            <h3 class="widget__title">IMPORTANT DATES</h3>
+            <div class="widget__content">
+              <div class="item wow fadeInUp" data-wow-duration="1s" data-wow-offset="150">
+                    <div class="item__date heading5">May 30, 2019</div>
+                    <h4 class="item__title heading4">Applications due</h4>
+                    <div class="item__info"><p>Applications closed at 5pm EDT on May 30, 2019. </p>
+</div>
+                  </div><div class="item wow fadeInUp" data-wow-duration="1s" data-wow-offset="150">
+                    <div class="item__date heading5">July 9, 2019</div>
+                    <h4 class="item__title heading4">Cohort candidate presentations</h4>
+                    <div class="item__info"><p>Candidates shared their tools with our expert selection committee.</p>
+</div>
+                  </div><div class="item wow fadeInUp" data-wow-duration="1s" data-wow-offset="150">
+                    <div class="item__date heading5">July 29, 2019</div>
+                    <h4 class="item__title heading4">Accelerator kickoff</h4>
+                    <div class="item__info"><p>Let’s get started! Virtual introductions to fellow cohort members and accelerator resources.</p>
+</div>
+                  </div><div class="item wow fadeInUp" data-wow-duration="1s" data-wow-offset="150">
+                    <div class="item__date heading5">August 20 - 21, 2019</div>
+                    <h4 class="item__title heading4">Boot Camp</h4>
+                    <div class="item__info"><p>Two days of in-person cohort collaboration and learning at Autodesk Technology Center in San Francisco, in partnership with Autodesk Foundation.</p>
+</div>
+                  </div><div class="item wow fadeInUp" data-wow-duration="1s" data-wow-offset="150">
+                    <div class="item__date heading5">November 18, 2019</div>
+                    <h4 class="item__title heading4">Showcase</h4>
+                    <div class="item__info"><p>A celebratory event in New York City. Cohort teams will present their tools to press and partners.</p>
+</div>
+                  </div>            </div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    
+    <div class="parallex-image parallax" data-bgimg="https://www.toolfoundry.org/wp-content/uploads/2019/03/4_Home_Divider-min-1920x1275.jpg"></div><!--    <div class="page-section home-committee">
+      <div class="container clearfix">
+        <div class="row">
+          <div class="col-md-3 col-sm-12">
+            <h2 class="heading3">Meet the selection committee</h2>
+            <a href="https://www.toolfoundry.org/accelerator/#selection-committee" class="btn btn__indigo">Learn more</a>
+          </div>
+          <div class="col-md-9 col-sm-12">
+            <div class="committee-members-list">
+              <div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/03/headshot-Alex-Healey-e1553524014121-300x300.jpg" alt="Alex Healey" class="img-fluid" /></div><h4 class="item__name">Alex Healey</h4><div class="item__title"><em><i>Acumen</i></em></div></div><div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/03/headshot-Alexis-Lewis-e1554330111261-300x300.jpg" alt="Alexis Lewis" class="img-fluid" /></div><h4 class="item__name">Alexis Lewis</h4><div class="item__title"><em>Social Innovation Entrepreneur</em></div></div><div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/05/headshot-squared.png" alt="Bilal Zuberi" class="img-fluid" /></div><h4 class="item__name">Bilal Zuberi</h4><div class="item__title"><em><i>Lux Capital</i></em></div></div><div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/03/headshot-Christofer-Nelson-e1553552635734-300x300.jpg" alt="Christofer Nelson" class="img-fluid" /></div><h4 class="item__name">Christofer Nelson</h4><div class="item__title"><em><i>Association of Science-Technology Centers</i></em></div></div><div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/03/headshot-Denice-Ross-286x300.jpg" alt="Denice Ross" class="img-fluid" /></div><h4 class="item__name">Denice Ross</h4><div class="item__title"><em><i>Beeck Center for Social Impact & Innovation</i></em></div></div><div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/03/headshot-Keith-Kirkland-e1553523976185-300x300.jpg" alt="Keith Kirkland" class="img-fluid" /></div><h4 class="item__name">Keith Kirkland</h4><div class="item__title"><em><i>WearWorks</i></em></div></div><div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/03/headshot-Robbie-Barbero-e1553523928310-300x300.jpg" alt="Robbie Barbero" class="img-fluid" /></div><h4 class="item__name">Robbie Barbero</h4><div class="item__title"><em><i>Ceres Nanosciences</i></em></div></div><div class="item"><div class="item__image"><img src="https://www.toolfoundry.org/wp-content/uploads/2019/03/headshot-Ruthe-Farmer-e1553521903601-300x300.png" alt="Ruthe Farmer" class="img-fluid" /></div><h4 class="item__name">Ruthe Farmer</h4><div class="item__title"><em><i>CSforALL</i></em></div></div>              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>-->
+
+    <div class="home-bottom"><div class="home-bottom__bg"></div><div class="container"><div class="content"><h2 class="heading3">Help build the accessible tools community.</h2><p><span style="font-weight: 400;">Franchise Pool is proud to be part of an inspiring community expanding access to science. Help us advance powerful scientific discovery tools anyone can use.</span></p>
+<a href="/get-involved/" id="" class="btn btn__medium" title="link to get involved">Get Involved</a>
+</div></div></div>
+  </main><!-- #main -->
+</section><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+    <a href="#" class="btn-view-top hidden-xs">Scroll top</a>    
+    <div class="container">
+      <h2 class="logo-footer">Franchise Pool</h2>
+      <div class="row">
+        <div class="col-md-6 col-sm-7 col-xs-12 col-md-push-6 col-sm-push-5">
+          <div class="contact-info">
+            <h3 class="heading6">Have a question? Reach out.</h3>
+            
+            <!--copy-email-->
+            
+            <p><a href="mailto:hello@toolfoundry.org" class="btn btn__medium btn__email">Email us</a></p>
+            <div class="follow-us clearfix">
+              <h4 class="heading6">Follow us:</h4>
+              <ul class="tf-social-links"><li class="twitter"><a href="https://www.twitter.com/tool_foundry" target="_blank">Twitter</a></li><li class="instagram"><a href="https://www.instagram.com/tool_foundry" target="_blank">Instagram</a></li></ul>              
+            </div>
+          </div>
+          <div class="mc_embed_signup"><h3 class="heading6">Sign up to receive the Franchise Pool Journal in your inbox.</h3><form action="https://toolfoundry.us2.list-manage.com/subscribe" method="get" name="mc-embedded-subscribe-form" target="_blank"><label for="email" class="heading5">Email address</label><div class="form-field"><input type="email" value="" name="EMAIL" id="email" class="email" placeholder="" required /><input type="submit" name="subscribe" value="Subscribe" class="btn mc-embedded-subscribe" title="Subscribe" /><input type="hidden" name="u" value="441bc2dfe9a009f0cf6c7d02b" /><input type="hidden" name="id" value="0fa4a24a74" /></div></form></div>          
+          
+          
+          
+          For media inquiries, please contact <a href="mailto:press@toolfoundry.org">press@toolfoundry.org</a>.
+        </div>
+        
+        <div class="col-md-6 col-sm-5 col-xs-12 col-md-pull-6 col-sm-pull-7">
+                      <nav class="footer-navigation" aria-label="Footer Menu">
+              <div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="footer-menu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-35"><a href="https://www.toolfoundry.org/" aria-current="page">Home</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://www.toolfoundry.org/about/">About Franchise Pool</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://www.toolfoundry.org/accelerator/">Accelerator</a></li>
+<li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="https://www.toolfoundry.org/get-involved/">Get Involved</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://www.toolfoundry.org/toolbox/">Toolbox</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://www.toolfoundry.org/journal/">Journal</a></li>
+<li id="menu-item-568" class="hidden-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-568"><a href="#">&#8211;</a></li>
+<li id="menu-item-535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-535"><a href="https://www.luminarylightbox.com/toolfoundry/">Accelerator Application</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.toolfoundry.org/accelerator-terms/">Accelerator Terms and Conditions</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://www.toolfoundry.org/faqs/">FAQ</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-38"><a rel="privacy-policy" href="https://www.toolfoundry.org/privacy-policy/">Privacy Policy</a></li>
+</ul></div>            </nav><!-- .footer-navigation -->
+                  </div>
+      </div>
+      
+      <div class="hline"></div>
+      <h4 class="heading5">Funded by:</h4>
+      <ul>
+        <li><a href="https://www.moore.org" target="_blank">The Gordon and Betty Moore Foundation</a></li>
+        <li><a href="https://www.schmidtfutures.com" target="_blank">Schmidt Futures</a></li>
+      </ul>
+    </div>
+    
+    <div class="site-credits">
+      <div class="container"><a href="https://www.luminary-labs.com" target="_blank" title="link to Luminary Labs">A <strong>Luminary Labs</strong> Initative</a></div>
+    </div>
+    
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-content/themes/tool-foundry/js/jquery.sticky.js?ver=v1.0.4' id='jquery-sticky-js'></script>
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-content/themes/tool-foundry/js/jquery.sticky-sidebar.js?ver=6.3.2' id='jquery-sticky-sidebar-js'></script>
+<script type='text/javascript' src='https://www.toolfoundry.org/wp-content/themes/tool-foundry/js/functions.js?ver=6.3.2' id='futurescape-script-js'></script>
+
+</body>
+</html>
