@@ -109,7 +109,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <header id="masthead" class="site-header">
     <div class="site-branding">
       <div class="container">
-                  <p class="site-title"><a href="https://www.toolfoundry.org/" rel="home">Franchise Pool</a></p>
+                  <p class="site-title"><a href="/" rel="home">Franchise Pool</a></p>
         
                   
           <nav id="site-navigation" class="main-navigation nav-collapse" aria-label="Primary Menu">
@@ -386,7 +386,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           
           
           
-          For media inquiries, please contact <a href="mailto:press@toolfoundry.org">press@toolfoundry.org</a>.
+          For media inquiries, please contact <a href="mailto:contact@franchisepool.org">contact@franchisepool.org</a>.
         </div>
         
         <div class="col-md-6 col-sm-5 col-xs-12 col-md-pull-6 col-sm-pull-7">
